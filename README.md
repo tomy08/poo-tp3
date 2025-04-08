@@ -3,7 +3,7 @@
 ## Manipulación de Datos con Punteros y Funciones en C
 
 1. Intercambiar el valor de dos variables usando punteros y funciones. Mostrando los valores iniciales y valores finales.
-s
+
 2. Encontrar la suma y el promedio de los elementos de un arreglo usando punteros y funciones.
 
 3. Encontrar el mayor y el menor elemento de un arreglo usando punteros y funciones.
